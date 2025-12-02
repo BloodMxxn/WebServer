@@ -11,6 +11,7 @@ Clone the repository and install Node.js if you haven't already.
 ```bash
 git clone https://github.com/BloodMxxn/WebServer.git
 cd WebServer
+npm i
 ```
 ## Usage
 Run the server with Node.js:
