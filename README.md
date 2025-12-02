@@ -9,8 +9,8 @@ A lightweight web server built with **Node.js**.
 Clone the repository and install Node.js if you haven't already.
 
 ```bash
-git clone https://github.com/your-username/simple-node-server.git
-cd simple-node-server
+git clone https://github.com/BloodMxxn/WebServer.git
+cd WebServer
 ```
 ## Usage
 Run the server with Node.js:
